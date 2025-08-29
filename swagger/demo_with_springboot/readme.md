@@ -4,6 +4,6 @@ This example is basic and somewhat messy—it's not clean, but it provides a gen
 
 # Testing locally
 
-[wagger-ui](http://localhost:8090/swagger-ui.html)
+[wagger-ui](http://localhost:8090/swagger-ui.html)<br>
 [api-docs](http://localhost:8090/v2/api-docs)
 
